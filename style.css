@@ -1,0 +1,16 @@
+body{
+    background-image: url(4k-white-i308ljad82204626.jpg)
+
+}
+p{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+  height: 5px;        /* tykkelse */
+  width: 900px;
+  margin-left: -1px;
+  background-color: rgb(129, 127, 127);
+  /* border: none;       fjerner standard linjen */
+}
